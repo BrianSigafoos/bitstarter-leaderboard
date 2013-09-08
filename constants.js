@@ -23,10 +23,10 @@
 var Constants = {
   APP_NAME: "PhotoLearn App", 
   FUNDING_TARGET: 10.00,
-  FUNDING_UNIT_SYMBOL: "mBTC",
-  FUNDING_SI_SCALE: 1000,
+  FUNDING_UNIT_SYMBOL: "BTC",
+  FUNDING_SI_SCALE: 1,
   FUNDING_END_DATE: new Date("September 8, 2013"),
-  PRODUCT_NAME: "Product: PhotoLearn App",
+  PRODUCT_NAME: "PhotoLearn App",
   PRODUCT_SHORT_DESCRIPTION: "Beautiful iOS photo learning app, in 12 languages.",
   TWITTER_USERNAME: "BrianSigafoos",
   TWITTER_TWEET: "This student crowdfunder looks interesting.",
